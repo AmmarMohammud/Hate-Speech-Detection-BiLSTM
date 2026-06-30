@@ -42,7 +42,7 @@ The architecture is structured sequentially to process raw text into dense seman
 ======================================================================================================================================================================================================================================================================================================================
 ## 💻 How to Run the Notebook
 1. Clone the repository:
-  git clone [https://github.com/your-username/Hate-Speech-Detection-BiLSTM.git](https://github.com/your-username/Hate-Speech-Detection-BiLSTM.git)
+  git clone [https://github.com/AmmarMohammud/Hate-Speech-Detection-BiLSTM.git](https://github.com/AmmarMohammud/Hate-Speech-Detection-BiLSTM.git)
 2. Install the necessary dependencies if running locally:
    pip install tensorflow pandas numpy matplotlib ipywidgets
 
